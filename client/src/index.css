@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.form-btn{
+  width:250px !important;
+  margin-top: 30px !important;
+}
