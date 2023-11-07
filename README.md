@@ -8,12 +8,6 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 ---
 
-### 🌐 Link:
-
-<h4> Live Site: https://healthbooker.onrender.com/ </h4>
-
-<br>
-
 ### 🛠️ Tools and technologies used :
 
 <div align=center>
@@ -29,32 +23,14 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 </div>
 
-<br>
-
-### 👋 Connect with me:
-
-<div align=center>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dunna-avinash)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avinash905)
-<a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinashdunna)
-
-</div>
-
-<br>
 
 ---
-
-<p align="right"><a href="#top">Back to Top</a></p>
 
 ### 📃Features :
 
 <ul>
   <li><strong>User Registration and Login:</strong> Enabling user registration and login functionality is the foundation of any user-oriented platform.</li>
   <li><strong>View Available Doctors:</strong> Allowing users to easily view the list of available doctors helps them find the right medical professional for their needs.</li>
-  <li><strong>Update Profile:</strong> Providing users with the ability to update their profiles keeps their information accurate and up to date.</li>
-  <li><strong>Contact Section for Queries:</strong> Including a contact section for user queries enhances user engagement and customer support.</li>
   <li><strong>Notifications Tab:</strong> A notifications tab helps users stay informed about updates, appointments, and application statuses.</li>
   <li><strong>Admin Management System:</strong> An admin management system is crucial for overseeing users, appointments, and doctor applications.</li>
   <li><strong>Access Control:</strong> Restricting access to certain sections like notifications, profile, appointments, and doctor applications to logged-in users ensures data privacy and security.</li>
@@ -73,6 +49,7 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 ### Steps to run the project on your local machine
 
+### STEP 1
 <ol>
 <li>Fork this repository</li>
 <li>Open terminal or command prompt on your local machine. Run the following command to clone the repository:</li>
@@ -114,71 +91,66 @@ npm start
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
-### Home page
 
-<img src="./client/src/images/full_pic.png" alt='home'/>
 
 ### Sign up page
 
-<img src="./client/src/images/signup.png" alt='signup'/>
+![Screenshot 2023-11-05 225726](https://github.com/sanjeev93936/Amazon_Clone/assets/108318474/9d386ab3-aa28-46bc-bb51-85d27c86a195)
 
 ### Sign in page
 
-<img src="./client/src/images/signin.png" alt='signin'/>
+![Screenshot 2023-11-05 225754](https://github.com/sanjeev93936/Amazon_Clone/assets/108318474/9517c587-f273-4443-a551-8ce0f7b920af)
 
-### Profile page
+### Admin pages
 
-<img src="./client/src/images/profile.png" alt='profile'/>
+#### Home page
+![Screenshot 2023-11-05 230052](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/15f7ce3b-ce4a-471b-b6e2-96ff55ca669e)
 
-### All Doctors page
+#### All Doctors
+![Screenshot 2023-11-05 230132](https://github.com/sanjeev93936/Amazon_Clone/assets/108318474/6865ec39-c59d-4210-8893-3ac2385deab5)
 
-<img src="./client/src/images/doctors.png" alt='doctors'/>
+#### All Users
+![Screenshot 2023-11-05 230205](https://github.com/sanjeev93936/Amazon_Clone/assets/108318474/e946851b-c27c-45fd-846f-fdc684506470)
 
-### Apply for doctor page
+### Doctors page
 
-<img src="./client/src/images/docapply.png" alt='applyfordoctor'/>
+#### Home page
+![Screenshot 2023-11-05 231302](https://github.com/sanjeev93936/Amazon_Clone/assets/108318474/5b527dc6-1cca-4568-994c-973c58453a3e)
 
-### Admin all users dashboard
+#### Doctors all appointments page
+![Screenshot 2023-11-05 231329](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/7903ad89-f3bc-4b95-81b1-08e74a14aac1)
 
-<img src="./client/src/images/users.png" alt='users'/>
+#### Manage Profile
+![Screenshot 2023-11-05 231357](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/c89d0be8-932a-475f-a3d4-af8c65ef1bd1)
 
-### Admin all applications page
 
-<img src="./client/src/images/applications.png" alt='applications'/>
+### Patients Page
 
-### Book Appointment page
+#### Home page
+![Screenshot 2023-11-05 232330](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/111b203a-4d25-46df-a6aa-c1660468f703)
 
-<img src="./client/src/images/bookappointment.png" alt='bookappointment'/>
+####  Users all appointments page
+![Screenshot 2023-11-05 232353](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/ec8df0f9-6fb9-4d30-91ac-aa5f931f4ffc)
 
-### Users all appointments page
-
-<img src="./client/src/images/userappointments.png" alt='appointments'/>
-
-### Doctors all appointments page
-
-<img src="./client/src/images/doctorappointments.png" alt='appointments'/>
+#### Apply for doctor page
+![Screenshot 2023-11-05 232417](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/8794984f-5771-4aa8-a379-833b5febebe9)
 
 ### Notifications page
+![Screenshot 2023-11-07 150420](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/d20a9a01-7364-4992-aec1-c3f2f8eb7715)
 
-<img src="./client/src/images/notifications.png" alt='notifications'/>
-
----
-
-<br/>
-
-### 🛡️ License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
-
-<br/>
+![Screenshot 2023-11-07 150451](https://github.com/sanjeev93936/Doctor-Appointment/assets/108318474/d7ff06d7-4076-4672-92a6-bb75b8c0ccb4)
 
 ---
 
-<h3 align="center"> Give it a 🌟 if you 🧡 this repository </h3>
+## Author
 
+### Sanjeev Madhavarapu
+
+<a href="https://linkedin.com/in/sanjeev-madhavarapu-92a389237/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="payalpatra105" height="30" width="40" /></a>
+<a href="https://instagram.com/
+sanjeev_madhavarapu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="p_iconic_" height="30" width="40" /></a>
 ---
+
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
